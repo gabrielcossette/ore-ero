@@ -27,6 +27,10 @@
   name:
     en: Communications Security Establishment
     fr: Centre de la sécurité des télécommunications
+- code: dfo-mpo
+  name:
+    en: Fisheries and Oceans Canada
+    fr: Pêches et Océans Canada
 - code: csps-efpc
   name:
     en: Canada School of Public Service

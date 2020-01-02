@@ -1,0 +1,68 @@
+---
+schemaVersion: '1.0'
+adminCode: dfo-mpo
+releases:
+  - contact:
+      email: caroline.lafleur@dfo-mpo.gc.ca
+    date:
+      created: '2010'
+      metadataLastUpdated: '2020-01-02'
+    description:
+      whatItDoes:
+        en: >-
+          The Environmental Data Management System (EDMS) is a data archiving and retrieval system based on PostgreSQL RDBMS.
+          The system is operated with the help of a suite of Matlab M-Files. Data can be queried with Web Services which are also included.
+        fr: >-
+          The Environmental Data Management System (EDMS) is a data archiving and retrieval system based on PostgreSQL RDBMS.
+          The system is operated with the help of a suite of Matlab M-Files. Data can be queried with Web Services which are also included.
+    category: '43232600'
+    name:
+      en: Environmental Data Management System (EDMS)
+      fr: Système de gestion de données environnementales (SGDE)
+    licences:
+      - URL:
+          en: 'http://edms-sgde.sourceforge.net/sgde/sgde-install/creation_bd_sgde.html'
+          fr: 'http://edms-sgde.sourceforge.net/sgde/sgde-install/creation_bd_sgde.html'
+        spdxID: GPL-3.0-or-later
+    repositoryURL:
+      en: 'https://sourceforge.net/projects/edms-sgde/'
+      fr: 'https://sourceforge.net/projects/edms-sgde/'
+    tags:
+      en:
+        - Environment
+      fr:
+        - Environnement
+    languages:
+      -  CSS, HCL, JavaScript, Python, Shell
+  - contact:
+      email: alain.desmeules@canada.ca
+    date:
+      created: '2010'
+      metadataLastUpdated: '2020-01-02'
+    description:
+      whatItDoes:
+        en: >-
+          A technology developped to implement web services to deliver in a standard way environmental data (Oceanagraphic, meteorological, etc.).
+          The specifications, and framework are available.
+        fr: >-
+          A technology developped to implement web services to deliver in a standard way environmental data (Oceanagraphic, meteorological, etc.).
+          The specifications, and framework are available.
+    category: '43232600'
+    name:
+      en: Web Environmental Data Service (WEDS)
+      fr: Système de gestion de données environnementales (SGDE)
+    licences:
+      - URL:
+          en: 'https://sourceforge.net/p/weds/code/HEAD/tree/trunk/src/Service.java'
+          fr: 'https://sourceforge.net/p/weds/code/HEAD/tree/trunk/src/Service.java'
+        spdxID: GPL-3.0-or-later
+    repositoryURL:
+      en: 'https://sourceforge.net/projects/weds/'
+      fr: 'https://sourceforge.net/projects/weds/'
+    tags:
+      en:
+        - Environment
+      fr:
+        - Environnement
+    languages:
+      -  CSS, HCL, JavaScript, Python, Shell
