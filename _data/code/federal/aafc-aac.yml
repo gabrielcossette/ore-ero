@@ -1,0 +1,70 @@
+---
+schemaVersion: '1.0'
+adminCode: aafc-aac
+releases:
+  - contact:
+      email: wen.chen@agr.gc.ca
+    date:
+      created: '2014-08-21'
+      metadataLastUpdated: '2020-01-02'
+    description:
+      whatItDoes:
+        en: >-
+          Characterizing environmental microbiota diversity using amplicon-based next generation sequencing (NGS) data.
+          Functions are developed to manipulate operational taxonomic unit (OTU) table, perform descriptive and inferential statistics,
+          and generate publication-quality plots.
+        fr: >-
+          Characterizing environmental microbiota diversity using amplicon-based next generation sequencing (NGS) data.
+          Functions are developed to manipulate operational taxonomic unit (OTU) table, perform descriptive and inferential statistics,
+          and generate publication-quality plots.
+    category: '43232600'
+    name:
+      en: Ram
+      fr: Ram
+    licences:
+      - URL:
+          en: 'https://cran.r-project.org/web/licenses/MIT'
+          fr: 'https://cran.r-project.org/web/licenses/MIT'
+        spdxID: MIT
+    repositoryURL:
+      en: 'https://bitbucket.org/Wen_Chen/ram_releases/src/master/'
+      fr: 'https://bitbucket.org/Wen_Chen/ram_releases/src/master/'
+    tags:
+      en:
+        - Microbiota
+      fr:
+        - Microbiome
+    languages:
+      - R
+  - contact:
+      email: martin.gauthier@canada.ca
+    date:
+      created: '2014'
+      metadataLastUpdated: '2020-01-02'
+    description:
+      whatItDoes:
+        en: >-
+          Tools related to Genomics and Metagenomics.
+        fr: >-
+          Outils reliés à la génomique et métagénomique.
+    category: '43232600'
+    name:
+      en: AAFC-BICoE
+      fr: AAC-IBCE
+    licences:
+      - URL:
+          en: 'https://github.com/AAFC-BICoE/object-store-api/blob/master/LICENSE'
+          fr: 'https://github.com/AAFC-BICoE/object-store-api/blob/master/LICENSE'
+        spdxID: MIT
+    repositoryURL:
+      en: 'https://github.com/AAFC-BICoE'
+      fr: 'https://github.com/AAFC-BICoE'
+    tags:
+      en:
+        - Genomics
+        - Metagenomics
+      fr:
+        - Génomique
+        - Métagénomique
+    languages:
+      - Java, Go, Perl, Python, Shell
